@@ -1,2 +1,11 @@
 site_name: Marisa Documentation
 
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - cpp
+        - bash
+
+
+extra_css: [extra.css]
